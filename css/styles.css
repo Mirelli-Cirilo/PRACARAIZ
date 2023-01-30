@@ -186,10 +186,7 @@ body {
     }   
     
     .food-card img{
-        width: 350px;
-        
-        
-        
+        width: 350px;           
     }
     
     .food-card .Comida {
@@ -199,8 +196,7 @@ body {
 
     #form-inner {
         padding: 2rem;
-        margin: 2rem;
-        
+        margin: 2rem;        
     }
 
     #register-form , #name-container {
